@@ -1,0 +1,16 @@
+{
+  "name": "live-webcam",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "2.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "sh captureWebcamAndHost.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
